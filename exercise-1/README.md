@@ -12,4 +12,4 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 
 Breakfast:
 
-I made energy chocolate drink
+I made tasty energy chocolate drink.
